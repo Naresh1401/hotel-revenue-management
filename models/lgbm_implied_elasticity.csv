@@ -1,0 +1,5 @@
+property_tier,base_occupancy,perturbed_occupancy,implied_elasticity
+budget,0.6994,0.6697,-0.8482
+luxury,0.602,0.5827,-0.6417
+midscale,0.6706,0.6507,-0.5953
+upscale,0.6479,0.6258,-0.6836

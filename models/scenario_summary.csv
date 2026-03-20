@@ -1,0 +1,5 @@
+strategy,mean_occupancy,mean_adr,mean_revpar,total_revenue,vs_current_revpar_pct
+event_premium,0.69,232.52,152.56,3434544.62,0.96
+market_parity,0.71,225.78,152.34,3429809.42,0.82
+occupancy_fill,0.79,203.4,151.38,3410442.47,0.18
+revenue_max,0.68,274.12,156.37,3516759.93,3.49
